@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcular Média</string>
+    <string name="calcular_media">Calcular Média</string>
+    <string name="hint_nota1">Digite a Nota 1</string>
+    <string name="hint_nota2">Digite a Nota 2</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
